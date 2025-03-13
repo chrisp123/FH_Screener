@@ -1,8 +1,9 @@
-IPython==8.26.0
+IPython==8.18.1
 ipywidgets
 matplotlib==3.6.3
-numpy==1.24.0
+numpy==1.21.5
 pandas==1.5.3
 plotly==5.3.0
 scipy==1.9.3
+geneticalgorithm==1.0.2
 voila
